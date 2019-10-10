@@ -1,7 +1,7 @@
 # Gutenberg
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pillow?color=Red&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/ilvacca/Gutenberg?style=flat-square) ![Project Blue Journey](https://img.shields.io/badge/Project-Blue%20Journey-important?style=flat-square)
 
-Resize is a super-fast **multithreaded batch watermark applying tool**. You can convert hundreds of images in couple of minutes. This tool was developed by an photographer for photographers to make **timelapses** or **startrails** pre-processing phases faster and easier.
+Resize is a super-fast **multithreaded batch watermark applying tool**. You can convert hundreds of images in couple of minutes. This tool was developed by an photographer for photographers to make watermarking phases faster and easier.
 
 It **preserves EXIF informations** like *Author*, *Date* or *ISO Speed* during conversion. TIFF, PNG and JPG currently supported.
 

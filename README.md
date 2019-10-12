@@ -8,7 +8,15 @@ It **preserves EXIF informations** like *Author*, *Date* or *ISO Speed* during c
 **Gutenberg** is part of the [Blue Journey Astrophotography](https://www.bluejourneyastro.com) project (more info [below](#the-blue-journey-astrophotography-project)).
 
 ## How it works
-TODO
+The tool usage is straightforward:
+
+1. Select the images you want to apply watermark to
+2. Select the PNG watermark you want to apply
+3. Choose the opacity [0-100]
+4. Choose the offset of the watermark from the bottom-right border (0-100% of the horizontal image width)
+5. Choose the size of the watermark (0-100% of the horizontal image width)
+6. Choose the prefix-suffix of the outputs
+7. Apply!
 
 ## The Blue Journey Astrophotography Project
 ![Blue Journey Astrophotography Header](https://github.com/ilvacca/Resize/blob/master/images/blue-journey-header.jpg)
